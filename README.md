@@ -1,5 +1,5 @@
 # utilizando_sqlite_localmente
-Projeto completo de utilização do SQLite localmente com python no COLAB com operação SQL
+Projeto completo de utilização do SQLite localmente com python no COLAB com operações em SQL
 
 
 # Documentação SQLAlchemy com Pandas no Google Colab
